@@ -1,0 +1,11 @@
+.store-selector-container{
+    height: 100dvh;
+}
+
+.card:hover{
+    background-color: #e2e6ea;
+}
+
+.card{
+    border: 0.5px solid var(--border-color);
+}

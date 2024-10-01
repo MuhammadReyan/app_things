@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284px" height="284px" viewBox="0 0 284 284" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <path d="M141,282 C200.96771,282 252.191731,244.563813 272.576571,191.78693 C278.662832,176.029441 282,158.904439 282,141 C282,63.1278503 218.87215,0 141,0 C63.1278503,0 0,63.1278503 0,141 C0,218.87215 63.1278503,282 141,282 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1033.000000, -363.000000)">
+            <g id="Group-3" transform="translate(1034.000000, 364.000000)">
+                <g id="Combined-Shape">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" stroke="#1F6EEB" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <path d="M31,268.262295 C31,201.843264 80.2486775,148 141,148 C201.751322,148 251,201.843264 251,268.262295 C31,369.245902 251,369.245902 31,268.262295 Z" fill="#1F6EEB" mask="url(#mask-2)"></path>
+                </g>
+                <rect id="Rectangle" fill="#1F6EEB" x="130" y="131" width="23" height="36" rx="7"></rect>
+                <path d="M141.5,141 C170.494949,141 193.537101,124.41224 193.537101,95.4172905 C193.537101,66.4223412 170.494949,35.9997096 141.5,35.9997096 C112.505051,35.9997096 88.5371006,66.4223412 88.5371006,95.4172905 C88.5371006,124.41224 112.505051,141 141.5,141 Z" id="Oval" fill="#D8D8D8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

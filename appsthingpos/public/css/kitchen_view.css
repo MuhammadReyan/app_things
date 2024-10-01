@@ -1,0 +1,80 @@
+:root{
+    --border-color: #EAEDF3;
+
+    --label-green: #56b396;
+    --label-green-bg: #e1faf4;
+}
+
+.kitchen-card{
+    border-radius: 0.3rem !important;
+}
+
+.kitchen-wrapper{
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.kitchen-order {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.kitchen-item-title{
+    width: 80%;
+}
+
+.kitchen-item-checker{
+    font-size: 25px;
+    vertical-align: top;
+}
+
+.kitchen-item-checker:hover{
+    font-size: 26px;
+}
+
+.waiter-card-items{
+    height: 22rem;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+/* New */
+
+.prepared{
+    text-decoration: line-through;
+}
+
+.kd-orders{
+    height: 100dvh;
+    overflow-y: scroll;
+}
+
+.kd-item-section{
+    border-bottom: 1px dashed var(--border-color) !important;
+}
+
+.kd-item:hover{
+    font-weight: 500;
+}
+
+.custom-border-light{
+    border-right: 0.5px solid var(--border-color);
+}
+
+.custom-border-light-right{
+    border-right: 0.5px solid var(--border-color);
+}
+
+.kitchen-order-complete{
+    font-size: 15px;
+}
+
+.waiter-card{
+    border: 0.5px solid  var(--border-color) !important;
+}
+
+.kd-items{
+    height: 100dvh;
+    overflow-y: scroll;
+    margin-bottom: 5rem;
+}

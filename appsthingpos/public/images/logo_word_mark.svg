@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="252px" height="40px" viewBox="0 0 252 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-25.000000, -135.000000)" id="Group">
+            <g transform="translate(25.000000, 135.000000)">
+                <g id="Nav-Logo">
+                    <circle id="Oval" fill="#0069FF" cx="20" cy="20" r="20"></circle>
+                    <path d="M29.22,11 C29.3856854,11 29.52,11.1343146 29.52,11.3 L29.52,18.416 L30.4699817,23.8031068 C30.4987526,23.9662751 30.3898021,24.1218727 30.2266338,24.1506436 L29.52,24.274 L29.52,30.7 C29.52,30.8656854 29.3856854,31 29.22,31 L23.52,31 L23.52,25.332 L15.52,26.743 L15.52,31 L9.82,31 C9.65431458,31 9.52,30.8656854 9.52,30.7 L9.52,11.3 C9.52,11.1343146 9.65431458,11 9.82,11 L29.22,11 Z M23.52,17 L15.52,17 L15.52,20.732 L23.52,19.321 L23.52,17 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                </g>
+                <text id="appsthing" fill="#3E3F42" fill-rule="nonzero" font-family="Poppins-Medium, Poppins" font-size="28" font-weight="400">
+                    <tspan x="45.48" y="30">appsthing</tspan>
+                </text>
+                <text id="POS" fill="#0069FF" fill-rule="nonzero" font-family="Poppins-SemiBold, Poppins" font-size="28" font-weight="500">
+                    <tspan x="196.972" y="30">POS</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

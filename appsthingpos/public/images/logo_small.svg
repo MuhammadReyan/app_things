@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-72.000000, -542.000000)" id="Group">
+            <g transform="translate(72.000000, 542.000000)">
+                <circle id="Oval" fill="#1F6EEB" cx="15" cy="15" r="15"></circle>
+                <path d="M21.84,7.5 C22.0056854,7.5 22.14,7.63431458 22.14,7.8 L22.14,13.064 L22.8394626,17.0284696 C22.8682336,17.1916378 22.759283,17.3472354 22.5961148,17.3760063 L22.14,17.456 L22.14,22.2 C22.14,22.3656854 22.0056854,22.5 21.84,22.5 L17.64,22.5 L17.64,18.25 L11.64,19.307 L11.64,22.5 L7.44,22.5 C7.27431458,22.5 7.14,22.3656854 7.14,22.2 L7.14,7.8 C7.14,7.63431458 7.27431458,7.5 7.44,7.5 L21.84,7.5 Z M17.64,12 L11.64,12 L11.64,14.798 L17.64,13.741 L17.64,12 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
